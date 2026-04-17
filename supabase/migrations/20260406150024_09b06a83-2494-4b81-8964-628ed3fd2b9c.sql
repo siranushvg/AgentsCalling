@@ -1,0 +1,1 @@
+ALTER TABLE public.agent_onboarding ADD COLUMN referred_by_code text DEFAULT '' NOT NULL;
